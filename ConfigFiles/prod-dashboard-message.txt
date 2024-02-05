@@ -1,1 +1,1 @@
-Please be aware that the Airbus Aerial Imagery base layer and AP-25cm-GB-Latest layer are not currently working.  Airbus are working to re-establish a connection as a matter of priority.
+
