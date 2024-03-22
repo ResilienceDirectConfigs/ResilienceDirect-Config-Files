@@ -1,1 +1,1 @@
-Is your registered email address correct in ResilienceDirect?  If not, contact support@resilience.gov.uk who will happily amend it for you.
+We have identified an issue with recently downloaded documents since migration.  Our developers are looking into this and hope to have a fix early next week.  Apologies for any inconvenience this has caused.
