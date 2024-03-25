@@ -1,1 +1,1 @@
-We have identified an issue using the checked in/out functionality on repository pages only.  We are applying a fix for this issue on the evening 25th March 2024. Apologies for any inconvenience this has caused.
+We strongly advise users to log in to the ResilienceDirect service every six months to ensure they stay familiar with the login process.
