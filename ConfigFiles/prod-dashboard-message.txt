@@ -1,2 +1,2 @@
-Please ensure you log in within 30 days of receiving your temporary password.  If not, your RD account will be disabled in line with current security protocols
+We are aware of an issue for some users, if you are using an Edge browser when you click on our feedback form.  Until this is resolved, please do not use the form and please continue to email support@resilience.gov.uk with any feedback.
 
