@@ -1,1 +1,1 @@
-OS BASE LAYERS ARE NOT LOADING IN RD MAPS AT THIS TIME.  THIS IS CONNECTED TO THE AWS OUTAGE.  PLEASE USE OPEN STREET MAP BASE LAYERS FOR THE INTERIM.
+Please be aware of GDPR compliance when naming files and maps in the ResilienceDirect service.
