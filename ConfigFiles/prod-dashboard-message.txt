@@ -1,1 +1,1 @@
-The Met Office will be turning of their Precipitation Rate layer soon.  Please use the new weather button functionality on all your maps
+The Met Office will be turning of their Precipitation Rate (rainfall) layer soon.  Please use the new weather button functionality on all your maps
