@@ -1,1 +1,1 @@
-Please be aware of GDPR compliance when naming files and maps in the ResilienceDirect service.
+The Met Office will be turning of their Precipitation Rate layer soon.  Please use the new weather button functionality on all your maps
