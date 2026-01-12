@@ -1,1 +1,1 @@
-The Met Office will be turning off their Precipitation Rate (rainfall) layer soon!  Please remove this layer from your maps and use the new weather button functionality.
+The introduction of Multi-Factor Authentication (MFA) has NOT gone ahead as scheduled.  We are hoping to release this functionality on 19th January 2026 following additional testing to sensure a smooth transition for all users.
