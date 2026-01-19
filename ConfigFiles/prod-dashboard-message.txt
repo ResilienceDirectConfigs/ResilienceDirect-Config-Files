@@ -1,1 +1,1 @@
-The introduction of Multi-Factor Authentication (MFA) has NOT gone ahead as scheduled.  We are hoping to release this functionality on 19th January 2026 following additional testing to sensure a smooth transition for all users.
+We are deploying the release tonight 19-Jan-2026 to enable Multi-Factor Authentication.  Please note whilst we do this, you will NOT be able to log into ResilienceDirect.  You will be able to log in, later tonight, once all release activities and testing has been completed.
