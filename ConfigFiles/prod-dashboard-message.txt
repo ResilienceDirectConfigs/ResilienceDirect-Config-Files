@@ -1,1 +1,1 @@
-Due to an Ordnance Survey (OS) outage, RD Maps OS Base layers, the property search & NGD functionality are not available.  This is likely to be remain out of service until 07:00hrs on Saturday 6th June 2026.
+Due to an Ordnance Survey (OS) outage, RD Maps OS base layers, the property search & NGD functionality are not available. This is likely to be remain out of service until 07:00hrs on Saturday 6th June 2026.
