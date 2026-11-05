@@ -1,1 +1,1 @@
-We had a short technical outage this morning which as now been fixed, so all users can now access ResilienceDirect.  Please be aware, it may take up to 30mins to propagate to your own devices. Apologies for any inconvenience.
+Advance notice: From the evening of 09-Nov-26, we will be updating notification and alerts subject headers, to prioritise your subject first, followed by the text - a notification / alert from ResilienceDirect.
