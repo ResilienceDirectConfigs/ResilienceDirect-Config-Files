@@ -1,1 +1,1 @@
-We are aware of a technical issue when users who are not currently logged into ResilienceDirect accessing the service.  We are working on this as a high priority.  Apologies for any inconvenience.
+We had a short technical outage this morning which as now been fixed, so all users can now access ResilienceDirect.  Please be aware, it may take up to 30mins to propagate to your own devices. Apologies for any inconvenience.
