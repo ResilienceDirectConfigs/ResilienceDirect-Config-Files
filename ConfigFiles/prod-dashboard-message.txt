@@ -1,1 +1,1 @@
-Advance notice: From the evening of 09-Nov-26, we will be updating notification and alerts subject headers, to prioritise your subject first, followed by the text - a notification / alert from ResilienceDirect.
+We are aware of a technical issue when users who are not currently logged into ResilienceDirect accessing the service.  We are working on this as a high priority.  Apologies for any inconvenience.
