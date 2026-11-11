@@ -1,1 +1,1 @@
-Advance notice: From the evening of 09-Nov-26, we will be updating notification and alerts subject headers, to prioritise your subject first, followed by the text - a notification / alert from ResilienceDirect.
+11-Nov-26: Our engineers are working to resolve an issue logging in to RD Collaborate; please accept our apologies for any inconvenience whilst this is resolved.  RD Maps remains fully accessible.
