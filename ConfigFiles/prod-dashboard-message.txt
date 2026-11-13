@@ -1,1 +1,1 @@
-RD remains stable, fully available, and unaffected by the current Microsoft service issues.
+RD is operational and unaffected by Microsoft issues. Notifications are sending as normal, though Microsoft recipients may experience delivery delays
